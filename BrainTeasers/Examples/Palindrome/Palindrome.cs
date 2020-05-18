@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-namespace BrainTeasers.Examples._001palindromes
+namespace BrainTeasers.Examples.Palindrome
 {
     /// <summary>
     /// A palindrome is a word, number, phrase,
